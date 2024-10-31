@@ -23,13 +23,7 @@
 I can be writing normally but I want to reference how to print Hello World in Python `print("Hello, World")` as you can see. I can also use triple backticks for code blocks. This makes the code color-coded, making it much easier to read and understand! 
 
 ```python
-
-greeting = "Hello"
-recipient = "ZA WARUDO!"
-
-message = f"{greeting}, recipient"
-
-print(message)
+print("Hello, ZA WARUDO")
 ```
 
 ## Tables
